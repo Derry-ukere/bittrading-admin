@@ -94,7 +94,7 @@ function DashboardContent() {
               <MenuIcon />
             </IconButton>
             <Typography component="h1" variant="h6" color="inherit" noWrap sx={{ flexGrow: 1 }}>
-              Prohedge Dashboard
+              Bittrading Dashboard
             </Typography>
           
           </Toolbar>

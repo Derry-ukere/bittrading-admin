@@ -10,7 +10,7 @@ function Footer() {
         <div className="row container app-py-1">
           <div className="col l8 s12 app-mobile-center">
             <img src="/assets/images/site/logo.png" style={{ height: '72px' }} />
-            <h3 style={{ marginTop: '0px', marginBottom: '10px' }}>SwiftTrading</h3>
+            <h3 style={{ marginTop: '0px', marginBottom: '10px' }}>BitTrading</h3>
             <p>
               <span className="material-icons notranslate">mail</span> info@swifttrading.live
             </p>
