@@ -140,7 +140,7 @@ export default function SwipeableTemporaryDrawer() {
                       </li>
                       <li>
                         <Link to="/">
-                          <b className="app-title">SwiftTrading</b>
+                          <b className="app-title">BitTrading</b>
                         </Link>
                       </li>
                     </ul>
